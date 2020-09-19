@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kpradeepkumarreddy/kpradeepkumarreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Alumni of IIIT Bangalore and Upgrad.  Total 7.5 years of experience in software development.  For the past 4.5 years working on android app development. Throughout the career worked on product based startup companies.
+### Hi there 👋
+#### I'm alumni of IIIT Bangalore and Upgrad, having total 7.5 years of experience in software development, and for the past 4.5 years working on android app development. Throughout the career worked on product based startup companies.
 
 ### Technologies that i work on
 * Android 
@@ -23,7 +24,6 @@ Here are some ideas to get you started:
 * Rx Java
 * Flutter
 * Dart
-
 
 # My apps in play store
 * [Snake Game](https://play.google.com/store/apps/details?id=com.pradeep.snakegame)
