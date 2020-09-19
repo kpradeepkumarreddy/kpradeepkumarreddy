@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-#### I'm alumni of IIIT Bangalore and Upgrad, having total 7.5 years of experience in software development, and for the past 4.5 years working on android app development. Throughout the career worked on product based startup companies.
+### Hi there 👋, this is Pradeep Kumar Reddy
+> I'm alumni of IIIT Bangalore and Upgrad, having 7.5 years of experience in software development, and for the past 4.5 years working on android app development. Throughout the career worked on product based startup companies.
 
 # Technologies that i work on
-#### Android, Java, Kotlin, Rx-Java, Flutter, Dart
+#### Android,  Java,  Kotlin,  Rx-Java,  Flutter,  Dart
 
 
 # My apps in play store
