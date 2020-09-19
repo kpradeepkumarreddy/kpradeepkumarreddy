@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 # Connect with me
 * [linkedin](https://www.linkedin.com/in/pradeepkumarreddyk/)
 * [github](https://github.com/kpradeepkumarreddy)
-* [twitter](https://twitter.com/PradeepKumRed1)
+* [twitter](https://twitter.com/PradeepKumRed1) ![Alt Text](/twitter.svg)
 * [facebook](https://www.facebook.com/PradeepKumarKReddy/)
