@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * [Brick Game](https://play.google.com/store/apps/details?id=com.pradeep.brickgame)
 * [Twos Puzzle Game](https://play.google.com/store/apps/details?id=com.pradeep.twos)
 
-## My tech youtube channel
+## My youtube channel
 * [youtube](https://www.youtube.com/channel/UC1aZ1UmpEmZwa9Y6XBvvPgg)
 
 ## Connect with me
