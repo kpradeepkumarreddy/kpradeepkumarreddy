@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Connect with me
+[linkedin](https://www.linkedin.com/in/pradeepkumarreddyk/)
+[github](https://github.com/kpradeepkumarreddy)
+[twitter](https://twitter.com/PradeepKumRed1)
+[facebook](https://www.facebook.com/PradeepKumarKReddy/)
