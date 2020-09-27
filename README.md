@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 > I'm alumni of IIIT Bangalore and Upgrad, having 7.5 years of experience in software development, and for the past 4.5 years working on android app development. Throughout the career worked on product based startup companies.
 
 ## My primary skills
-> Android,  Java,  Kotlin,  Rx-Java,  Flutter,  Dart, Dagger, HILT, MVVM
+> Android, Java, Kotlin, RxJava, RxAndroid, Flutter, Dart, Dagger, Hilt, MVVM, Yaml, SQLite, MySQL, MongoDB, ElasticSearch.
 
 ## Tools that i know
-> AndroidStudio, JUnit, Espresso, Appium, SwaggerCodegen, SwaggerEditor, Robo3T, MongoDBCompass, Vim editor, Gitlab, GitBash
+> AndroidStudio, JUnit, Espresso, Appium, SwaggerCodegen, SwaggerEditor, Robo3T, MongoDBCompass, Vim editor, Gitlab, GitBash.
 
 ## My apps in play store
 * [Snake Game](https://play.google.com/store/apps/details?id=com.pradeep.snakegame)
