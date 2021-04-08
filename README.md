@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋, this is Pradeep Kumar Reddy
-> I'm alumni of IIIT Bangalore and Upgrad, having 7.5 years of experience in software development, and for the past 4.5 years working on android app development. Throughout the career worked on product based startup companies.
+> I'm alumni of IIIT Bangalore and Upgrad, having 8 years of experience in software development, and for the past 5 years working on android app development. Throughout the career worked on product based startup companies.
 
 ## My primary skills
 > Android, Java, Kotlin, RxJava, RxAndroid, Flutter, Dart, Dagger, Hilt, MVVM,
