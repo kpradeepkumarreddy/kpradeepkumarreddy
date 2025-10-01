@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 > Robo3T, MongoDBCompass, Vim editor, Gitlab, GitBash.
 
 ## My apps in play store
+* [Birds Shooter Plane](https://play.google.com/store/apps/details?id=com.pradeep.birdsshooterplane)
+* [Xylophone](https://play.google.com/store/apps/details?id=com.pradeep.xylophone)
 * [Snake Game](https://play.google.com/store/apps/details?id=com.pradeep.snakegame)
 * [Memory Game](https://play.google.com/store/apps/details?id=com.pradeep.memorygame)
 * [Brick Game](https://play.google.com/store/apps/details?id=com.pradeep.brickgame)
 * [Twos Puzzle Game](https://play.google.com/store/apps/details?id=com.pradeep.twos)
-* [Birds Shooter Plane](https://play.google.com/store/apps/details?id=com.pradeep.birdsshooterplane)
+
 
 ## My youtube channel
 * [youtube](https://www.youtube.com/channel/UC1aZ1UmpEmZwa9Y6XBvvPgg)
