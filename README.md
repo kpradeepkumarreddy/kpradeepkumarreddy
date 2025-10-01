@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋, this is Pradeep Kumar Reddy
-> I'm alumni of IIIT Bangalore and Upgrad, having 10 years of experience in software development, and for the past 7 years working on android app development. Throughout the career worked on product based startup companies.
+> Currently pursuing the 8-month Ultimate Big Data Masters Program by Sumit at TrendyTech, focused on developing expertise in Big Data technologies and transitioning into the Big Data domain.
+8 years of software development experience in startup ecosystems.
+Completed a Post Graduate Certification in Machine Learning and Natural Language Processing from IIIT Bengaluru, delivered in collaboration with UpGrad.
 
 ## My primary skills
-> Qt QML, Javascript, C++, Android, Java, Kotlin, RxJava, RxAndroid, Flutter, Dart, Dagger, Hilt, MVVM,
+> Python, Spark, SQL, Hive, Android, Java, Kotlin, RxJava, RxAndroid, Flutter, Dart, Dagger, Hilt, MVVM, Qt QML, JavaScript, C++, 
 > Yaml, SQLite, MySQL, MongoDB, ElasticSearch.
 
 ## Tools that i know
