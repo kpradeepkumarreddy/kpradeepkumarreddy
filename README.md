@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋, this is Pradeep Kumar Reddy
-> Currently pursuing the 8-month Ultimate Big Data Masters Program by Sumit at TrendyTech, focused on developing expertise in Big Data technologies and transitioning into the Big Data domain.
+> Aspiring AI and Data Engineer.
 8 years of software development experience in startup ecosystems.
 Completed a Post Graduate Certification in Machine Learning and Natural Language Processing from IIIT Bengaluru, delivered in collaboration with UpGrad.
 
